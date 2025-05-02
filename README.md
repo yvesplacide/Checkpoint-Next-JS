@@ -1,6 +1,8 @@
 npm install pour installer les dependences
 npm run dev pour lancer l'application
 
+lien du dommaine deploye sur vercel : portfolionextjs-xi.vercel.app
+
 Votre Objectif
 
 Tâche de contrôle : Construire un site web de portfolio Next.js
